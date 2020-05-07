@@ -1,3 +1,3 @@
 print('hello, Git!')
-print('Ik print veel')
+print('Ik print aangepast')
 input('press ENTER to continue..')
